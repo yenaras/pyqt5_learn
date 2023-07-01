@@ -8,6 +8,7 @@ packages = [{include = "pyqt5_learn"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pyqt5 = "^5.15.9"
 
 
 [build-system]
